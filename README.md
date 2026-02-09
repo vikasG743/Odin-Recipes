@@ -46,13 +46,13 @@ You just need a modern web browser (like Chrome, Firefox, Safari, or Edge) to vi
 1.  **Clone the repository** to your local machine:
 
     ```bash
-    git clone https://github.com
+    git clone https://github.com   #ssh-URL of repository from github
     ```
 
 2.  **Navigate** to the project directory:
 
     ```bash
-    cd your-repo-name
+    cd Odin-recipes
     ```
 
 3.  **Open the main file:** Locate the `index.html` file in the project folder and double-click it. It will automatically open in your default web browser.
